@@ -3,15 +3,15 @@
 ## Feature:
 ## Prerequisites:
 - JDK LTS Version
---NODEJS LTS Version
---Gradle
---Allure
+- NODEJS LTS Version
+- Gradle
+- Allure
 ## Preferred IDE:
---Intellij
+- Intellij
 ## How to run?
 ## To generate Allure report write the following commands:
---allure generate allure-results --clean
---allure serve allure-results
+- allure generate allure-results --clean
+- allure serve allure-results
 ## Allure Reports
 ![overView](https://github.com/user-attachments/assets/1e1ba6d1-e56d-4b6e-ac31-5bb44c8bad84)
 
