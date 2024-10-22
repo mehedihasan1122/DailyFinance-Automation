@@ -2,7 +2,7 @@
 ## Project Summary:
 ## Feature:
 ## Prerequisites:
---JDK LTS Version
+- JDK LTS Version
 --NODEJS LTS Version
 --Gradle
 --Allure
