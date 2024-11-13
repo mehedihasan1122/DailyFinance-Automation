@@ -1,6 +1,11 @@
 # Project Title: DailyFinance Automation Using Selenium with TestNG
-## Project Summary:
+## Project Summary:This project focuses on automating the testing process for key functionalities of the DailyFinance platform. The primary objectives include user registration, profile updates, cost management, and verifying dashboard data. By employing the Page Object Model (POM) design pattern, the tests are structured for better maintainability and scalability.
 ## Feature:
+- User Registration
+- Admin Dashboard Verification
+- Profile Update
+- Cost/Expenditure Management
+- Item Search
 ## Prerequisites:
 - JDK LTS Version
 - NODEJS LTS Version
