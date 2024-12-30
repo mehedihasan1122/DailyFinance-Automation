@@ -1,6 +1,8 @@
-# Project Title: DailyFinance Automation Using Selenium with TestNG
+# Project Title: 
+## DailyFinance Automation Using Selenium with TestNG
 
-## Project Summary:In this project focuses on automating the testing process DailyFinance platform.Here i automate users registration, profile updates, cost management and verifying dashboard data using Page Object Model, the tests are structured for better maintainability and scalability with two suits(regression and smoke test).
+## Project Summary:
+### In this project focuses on automating the testing process DailyFinance platform.Here i automate users registration, profile updates, cost management and verifying dashboard data using Page Object Model, the tests are structured for better maintainability and scalability with two suits(regression and smoke test).
 
 ## Feature:
 - User Registration
